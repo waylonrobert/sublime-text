@@ -1,0 +1,19 @@
+{
+	"bold_folder_labels": true,
+	//"color_scheme": "Packages/Theme - Appealr/appealr-color-scheme.tmTheme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"draw_indent_guides": true,
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Liberation Mono",
+	"font_size": 14.0,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"SublimeCodeIntel"
+	],
+	"remember_open_files": true,
+	"remember_open_folders": true,
+	//"theme": "Flatland Dark.sublime-theme"
+  "theme": "Spacegray.sublime-theme"
+}
