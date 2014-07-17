@@ -3,7 +3,7 @@ sublime-text
 
 My settings for ST2.
 
-# Packages
+## Packages
 
 I use the following packages:
 
